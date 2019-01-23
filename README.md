@@ -36,9 +36,9 @@ I run the theme in Columns UI with a super simple setup using the JScript Panel,
 
 These packs will all need to be extracted to a folder called `images` which you will need to create in your foobar profile folder.
 
-* **[Record Labels](https://github.com/kbuffington/georgia-image-packs/raw/master/artistlogos-2018-06-29.rar)**: Extract to `.../AppData/Roaming/foobar2000/images/`
-* **[Artist Logos](https://github.com/kbuffington/georgia-image-packs/raw/master/flags.rar)**: Extract to `.../AppData/Roaming/foobar2000/images/`
-* **[Flags](https://github.com/kbuffington/georgia-image-packs/raw/master/recordlabel.rar)**: Extract to `.../AppData/Roaming/foobar2000/images/`
+* **[Artist Logos](https://github.com/kbuffington/georgia-image-packs/raw/master/artistlogos-2018-06-29.rar)**: Extract to `.../AppData/Roaming/foobar2000/images/`
+* **[Flags](https://github.com/kbuffington/georgia-image-packs/raw/master/flags.rar)**: Extract to `.../AppData/Roaming/foobar2000/images/`
+* **[Record Labels](https://github.com/kbuffington/georgia-image-packs/raw/master/recordlabel.rar)**: Extract to `.../AppData/Roaming/foobar2000/images/`
 
 Image pack repo: https://github.com/kbuffington/georgia-image-packs - I recommend starring this repo. I'll be releasing incremental updates of the image packs every month.
 
